@@ -26,5 +26,6 @@ Através de um **modelo de leilão com ofertas dinâmicas**, a plataforma possib
 | **Raiana Vilardo Martin da Silva** | `45055611` | Scrum Master |
 | **Gabriel Silva Diniz** | `45618496` | Engenheiro de Software |
 | **Kayk Ferreira Cândido** | `44883421` | Engenheiro de Software |
+
 | **Geovanna Cristina Santos Costa** | `44878745` | Engenheira de Software |
 | **Augusto Lima** | `45633355` | Engenheiro de Software |
