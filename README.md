@@ -26,6 +26,9 @@ Através de um **modelo de leilão com ofertas dinâmicas**, a plataforma possib
 | **Raiana Vilardo Martin da Silva** | `45055611` | Scrum Master |
 | **Gabriel Silva Diniz** | `45618496` | Engenheiro de Software |
 | **Kayk Ferreira Cândido** | `44883421` | Engenheiro de Software |
+| **Geovanna Cristina Santos Costa** | `44878745` | Engenheira de Software |
+| **Augusto Lima** | `45633355` | Engenheiro de Software |
+
 ---
 
 ## 🚀 Funcionalidades da Plataforma (Escopo do Projeto)
@@ -64,5 +67,41 @@ Para manter a viabilidade e entrega contínua, os seguintes itens não fazem par
 - 🚫 Gateway de pagamento online integrado (pagamento e frete combinados via WhatsApp após arremate).
 - 🚫 Aplicativo móvel nativo / Notificações Push.
 - 🚫 Chat em tempo real via WebSocket.
-| **Geovanna Cristina Santos Costa** | `44878745` | Engenheira de Software |
-| **Augusto Lima** | `45633355` | Engenheiro de Software |
+
+---
+
+## 📊 Indicadores de Desempenho (KPIs)
+
+1. **Taxa de Conclusão de Pedidos:**
+   $$\text{Taxa de Conclusão} = \left(\frac{\text{Pedidos Concluídos}}{\text{Pedidos Realizados}}\right) \times 100$$
+   - *Meta Inicial:* **≥ 70%**
+
+2. **Tempo Médio para Encontrar Oferta:**
+   $$\text{Tempo Médio} = \frac{\sum \text{Tempo de Busca}}{\text{Total de Buscas}}$$
+   - *Meta Inicial:* **≤ 3 minutos**
+
+---
+
+## 📅 Planejamento de Entregas (4 Etapas)
+
+- [x] **Etapa 1:** Planejamento, Visão, Personas e Levantamento de Requisitos.
+- [ ] **Etapa 2:** Design UX/UI, Wireframes e Protótipo Navegável.
+- [ ] **Etapa 3:** Modelagem do Banco de Dados, Backend, Frontend e Lógica de Leilão.
+- [ ] **Etapa 4:** Testes Funcionais, Usabilidade, Correção de Bugs e Apresentação.
+
+📌 **Acompanhamento do Projeto (Notion Board):** [Quadro do Projeto AgroTrading](https://app.notion.com/p/3d13e1911e61800f92e2e0bb8dbe9fd8?v=8d2921a73d4d406897556561eb8b095b)
+
+---
+
+## 🔒 Conformidade LGPD & Segurança
+
+A plataforma opera estritamente em conformidade com a **Lei Geral de Proteção de Dados (Lei nº 13.709/2018)**:
+- **Bases Legais:** Execução de contrato (Art. 7º, V) e Consentimento expresso (Art. 7º, I).
+- **Segurança:** Armazenamento seguro de senhas via hash criptográfico não reversível, tráfego seguro via protocolo HTTPS e controle rigoroso de acesso à base de dados.
+- **Direitos do Titular:** Garantia de solicitação de visualização, retificação ou exclusão de cadastro a qualquer momento (Art. 18).
+
+---
+
+## 📄 Licença
+
+Este projeto é desenvolvido para fins acadêmicos. Todos os direitos reservados à equipe de desenvolvimento AgroTrading.
