@@ -60,16 +60,6 @@ Status atualizável manualmente pelo produtor:
 
 ---
 
-## ⚙️ Fora do Escopo Atual
-
-Para manter a viabilidade e entrega contínua, os seguintes itens não fazem parte desta fase do projeto:
-- 🚫 Rastreamento em tempo real via GPS.
-- 🚫 Gateway de pagamento online integrado (pagamento e frete combinados via WhatsApp após arremate).
-- 🚫 Aplicativo móvel nativo / Notificações Push.
-- 🚫 Chat em tempo real via WebSocket.
-
----
-
 ## 📊 Indicadores de Desempenho (KPIs)
 
 1. **Taxa de Conclusão de Pedidos:**
